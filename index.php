@@ -9,7 +9,7 @@
 <body>
     <main>
         <h1>Enter Your Details Here</h1>
-        <form action="./blurwords.php" method="$_GET">
+        <form action="./blurwords.php" method="GET">
             <input type="text" name="paragraph">
             <input type="text" name="badword">
             <button type="submit"> Invia </button>
