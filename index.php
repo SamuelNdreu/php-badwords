@@ -41,8 +41,9 @@
                 <label for="badword" class="form-label h2"> Bad Words 2</label>
                 <input type="text-area" name="parag" id="parag" class="form-control">
 
-                <button type="submit" class="btn btn-primary">Submit</button>
+                
             </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
         </form>
     </div>
 </body>
